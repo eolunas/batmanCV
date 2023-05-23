@@ -1,3 +1,26 @@
-footer{
-    background-color: rgb(23, 23, 168);
+header {
+  text-align: center;
+  background-color: #e6e6e6;
+}
+
+h1 {
+  letter-spacing: 0.5rem;
+  color: #005677;
+  background-color: #c4c4c4;
+}
+
+.title {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+
+footer {
+  background-color: #005677;
+  text-align: center;
+  justify-content: center;
+}
+
+footer span {
+  text-align: center;
+  justify-content: center;
 }
